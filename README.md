@@ -50,7 +50,7 @@
   <!-- GraphQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/>
   <!-- API REST (usando icono genérico de API) -->
-  <img src="https://static.cdnlogo.com/logos/s/90/swagger.svg" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/REST%20API-FF0000?style=for-the-badge&logo=api&logoColor=white" height="40"/>
 </p>
 
 ---
