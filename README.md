@@ -36,6 +36,7 @@
   <!-- Wordpress -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
 </p>
+
 ---
 
 ## 🗄️ Data Management
@@ -49,7 +50,7 @@
   <!-- GraphQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/>
   <!-- API REST (usando icono genérico de API) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+  <img src="https://static.cdnlogo.com/logos/s/90/swagger.svg" width="40" height="40"/>
 </p>
 
 ---
