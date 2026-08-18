@@ -15,8 +15,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <!-- NPM -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
   <!-- Bun -->
   <img src="https://bun.sh/logo.svg" width="40" height="40"/>
 </p>
@@ -33,8 +31,6 @@
   <img src="https://nestjs.com/img/logo-small.svg" width="40" height="40"/>  
   <!-- .NET -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="40" height="40"/>
-  <!-- Wordpress -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
 </p>
 
 ---
@@ -49,8 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
   <!-- GraphQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/>
-  <!-- API REST (usando icono genérico de API) -->
-  <img src="https://img.shields.io/badge/REST%20API-FF0000?style=for-the-badge&logo=api&logoColor=white" height="40"/>
 </p>
 
 ---
