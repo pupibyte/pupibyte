@@ -9,10 +9,15 @@
 
 ## 🛠️ Skills
 <p align="left">
+  <!-- Typescript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <!-- C# -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <!-- NPM -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
+  <!-- Bun -->
   <img src="https://bun.sh/logo.svg" width="40" height="40"/>
 </p>
 
@@ -20,10 +25,15 @@
 
 ## 🚀 Technologies
 <p align="left">
+  <!-- Angular -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+  <!-- NodeJS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <!-- NestJS -->
   <img src="https://nestjs.com/img/logo-small.svg" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
+  <!-- .NET -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
+  <!-- Wordpress -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
 </p>
 ---
